@@ -2,6 +2,41 @@
 
 - Create React App
 - Configured Tailwind CSS
+- Routing
+- Header
+- Login Form
+- Sign Up Form
+- Form Validation
+- useRef Hook
+- Firebase Setup
+- Deploying App to Production
+- create SignUp user account
+- Implement Sign In user API
+- created Redux store with userSlice
+- Implemented Sign Out
+- Update Profile API
+- BugFix: if the user is not logged in redirect it to login page and vice-versa
+- unsubscribed to the onAuthStateChange callback
+- Register for TMDB API & create an app & get access token
+- get data from TMDB API for now playing movies
+- Fetch from TMDB
+- custom hook for now playing movies
+- create movieSlice
+- update store with movies Data
+- planning for Main Container & Secondary Container
+- Fetch data for trailer video
+- Update store with trailer data
+- Embedded the Yputube and make it autoplay and mute
+- Tailwind Classes
+- GPT Serach Bar
+- multi-language Feature in our App
+- Integrate GPT APIs(get open AI key)
+- fetched gptMovieSuggetions from TMDB
+- created gptSlice added data
+- Reused MovieList component to make movie Suggestion Container
+- Memoization
+- Added .env file
+- Made site responsive
 
 # Features
 
